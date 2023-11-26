@@ -35,15 +35,15 @@ I'm a passionate Informatics Engineering student at UAX University with a keen i
 
 I am constantly seeking to expand my knowledge in the following areas:
 
-- [List some topics or technologies you are currently learning]
+<!--- [List some topics or technologies you are currently learning]-->
 
 ## 🚧 Projects
-
+<!--
 ### [Project 1]
 Brief description, technologies used, and link to the project repository.
 
 ### [Project 2]
-Brief description, technologies used, and link to the project repository.
+Brief description, technologies used, and link to the project repository.-->
 
 ## 📈 GitHub Stats
 
@@ -51,7 +51,7 @@ Brief description, technologies used, and link to the project repository.
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting conversations and collaboration. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/yourusername).
+I'm always open to interesting conversations and collaboration. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mario-gonzalez-galisteo/)
 
 Thanks for stopping by! 😊
 
