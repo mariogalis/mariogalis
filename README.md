@@ -47,7 +47,7 @@ Brief description, technologies used, and link to the project repository.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues,contribs)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues,contribs)](https://github.com/mariogalis)
 
 ## 🤝 Let's Connect
 
