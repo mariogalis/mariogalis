@@ -45,10 +45,10 @@ Brief description, technologies used, and link to the project repository.
 ### [Project 2]
 Brief description, technologies used, and link to the project repository.-->
 
-## 📈 GitHub Stats
+## 📈 42 Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues,contribs)](https://github.com/mariogalis)
-
+[![magonzal's 42 stats](https://badge.mediaplus.ma/kettlebells/magonzal?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ## 🤝 Let's Connect
 
 I'm always open to interesting conversations and collaboration. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mario-gonzalez-galisteo/)
