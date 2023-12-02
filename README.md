@@ -13,41 +13,39 @@ I'm a passionate Informatics Engineering student at UAX University with a keen i
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mario-gonzalez-galisteo/)
-<!--[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://yourportfolio.com)-->
 
 ## 🛠️ Skills
 
 - **PLanguages:** C, C++, Java, Scala, Assembly
 - **Security:** Intrusion Detection, Incident Response, Threat Analysis
-- **Tools:** 
+- **Tools:** : Next Generation Firewalls, Fortinet, Palo Alto Networks.
 
 ## 💼 Experience
 
 ### Telefonica Tech - Security Operations Center
-<!--*Your Role* | *Location* | *Month Year - Present*
+Telefónica Tech ​Cyber Security & Cloud | Operations N2
 
-- Describe your responsibilities and achievements in your current role.-->
+- Design and maintain customized perimeter security policies to address the unique needs of each organization.
+- Manage and optimize next-generation firewalls to ensure a robust defense against cyber threats.
+- Proactively monitor security events, identify potential breaches and take rapid corrective action.
 
-### [Previous Experience]
 
 ## 🌱 What I'm Learning
 
-I am constantly seeking to expand my knowledge in the following areas:
+I am an active individual who is constantly engaged in learning and self-improvement especially in the following areas:
 
-<!--- [List some topics or technologies you are currently learning]-->
+-Cybersecurity : 
+
+-Programming : 
 
 ## 🚧 Projects
-<!--
-### [Project 1]
-Brief description, technologies used, and link to the project repository.
 
-### [Project 2]
-Brief description, technologies used, and link to the project repository.-->
+### [Minishell](https://github.com/mariogalis/minishell)
+MiniShell is a project that aims to implement a simple bash shell, capable of executing basic commands, handling multiple commands with pipes, and managing file redirections. This project provides a user-friendly interface for interacting with a command-line operating system.
+### [Cub3D](https://github.com/mariogalis/cub3d)
+"Cub3D is a dynamic and immersive project that challenges participants to create a 3D maze using the raycasting technique in C programming. Developed as part of the 42 curriculum, this project involves graphics rendering, texture mapping, and real-time player movement, offering a hands-on experience in graphics programming and game development."
 
 ## 📈 42 Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues,contribs)](https://github.com/mariogalis)
 [![magonzal's 42 stats](https://badge.mediaplus.ma/kettlebells/magonzal?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ## 🤝 Let's Connect
 
